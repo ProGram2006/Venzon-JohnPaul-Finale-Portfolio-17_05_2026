@@ -1,0 +1,3 @@
+double clicking the index file will not work properly.
+You need live server to run the code because of Js.
+To run it, use live server in Vs code, then click Go Live to run the index.
